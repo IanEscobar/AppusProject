@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AppusProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppusProject_jar</output-path>
+    <root id="archive" name="AppusProject.jar">
+      <element id="module-output" name="AppusProject" />
+    </root>
+  </artifact>
+</component>
